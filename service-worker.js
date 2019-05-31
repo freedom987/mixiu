@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.70cca4a7ef0ba8aefbba53c08f55d5f1.js"
+  "/precache-manifest.7e678ef151c7f9b3a8df3fa019b5c910.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mixiu"});
